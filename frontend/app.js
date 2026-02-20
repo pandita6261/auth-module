@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost:5000"; // CHANGE after deploy
+const API_BASE = " https://auth-module-2qnn.onrender.com"; // CHANGE after deploy
 
 function setMsg(id, text, ok) {
   const el = document.getElementById(id);
